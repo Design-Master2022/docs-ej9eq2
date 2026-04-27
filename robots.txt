@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ziyq89.citysinglescommunity.com/sitemap.xml
